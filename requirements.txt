@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+gradio
+pdfplumber
+chromadb
+sentence-transformers
+python-dotenv
+jinja2
+huggingface_hub
+requests
+python-multipart
+torch
