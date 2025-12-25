@@ -183,7 +183,7 @@ Docker & Cloud deployment
 GPT-based summarization
 
 👨‍💻 Author
-Rattish Kumar
+Rattish Kumar SS
 B.Tech AI & Data Science 
 Saveetha Engineering College
 
